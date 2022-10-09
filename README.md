@@ -4,16 +4,17 @@
 - 🌱I’m currently learning more technologies for a better Frontend development and always improving in UI UX design
 - 🎯What tools and languages do I use?
      -For Frontend development:
-          HTML CSS JS 
-          Booststrap
-          Angular React
-          Visual Studio Code
+          -HTML CSS JS 
+          (BEM methodology)
+          -Booststrap
+          -Angular -React
+          -Visual Studio Code
      -UI UX Design:
-          Figma
-          Adobe XD
-          Invision
-          Illustrator
-          Photoshop
+          -Figma
+          -Adobe XD
+          -Invision
+          -Illustrator
+          -Photoshop
      
 - 🌐 You can find me on:
      Email: "davamaju24@gmail.com" 
