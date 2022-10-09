@@ -3,13 +3,14 @@
 - 👀I’m an industrial engineer with a specialty in manufacturing and aeronautical innovation, I’m a graduate of the Tecnologico Nacional de Mexio campus Ensenada.
 - 🌱I’m currently learning more technologies for a better Frontend development and always improving in UI UX design
 - 🎯What tools and languages do I use?
--For Frontend development:
+
+- -For Frontend development:
           -HTML CSS JS 
           (BEM methodology)
           -Booststrap
           -Angular -React
           -Visual Studio Code
--UI UX Design:
+- -UI UX Design:
           -Figma
           -Adobe XD
           -Invision
