@@ -22,8 +22,7 @@
 
 - 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
       "https://www.behance.net/vanessamartine12/projects" 
-    ![pinterest-logo-24](https://user-images.githubusercontent.com/110215625/194782916-85a5ebd0-dbe7-4ade-a32a-c2abfe0d9a2b.png)
-  "https://www.pinterest.com.mx/IngDayanaMartinez/  
+      "https://www.pinterest.com.mx/IngDayanaMartinez/" 
 
 <!---
 Ing-Dayana/Ing-Dayana is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
