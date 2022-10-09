@@ -1,5 +1,4 @@
 - Hi, I’m ✨Dayana✨, 
-![bxl-pinterest](https://user-images.githubusercontent.com/110215625/194782858-69051fbe-31d1-468a-838c-f2c5c94492f2.svg)
 
 - 👀I’m an industrial engineer with a specialty in manufacturing and aeronautical innovation, I’m a graduate of the Tecnologico Nacional de Mexio campus Ensenada.
 - 🌱I’m currently learning more technologies for a better Frontend development and always improving in UI UX design
@@ -23,7 +22,8 @@
 
 - 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
       "https://www.behance.net/vanessamartine12/projects" 
-      "https://www.pinterest.com.mx/IngDayanaMartinez/  
+    ![pinterest-logo-24](https://user-images.githubusercontent.com/110215625/194782916-85a5ebd0-dbe7-4ade-a32a-c2abfe0d9a2b.png)
+  "https://www.pinterest.com.mx/IngDayanaMartinez/  
 
 <!---
 Ing-Dayana/Ing-Dayana is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
