@@ -16,8 +16,11 @@
           Illustrator
           Photoshop
      
-- 📫 Contact me by email "davamaju@gmail.com" or on my Profile in Linkedin
-     "www.linkedin.com/in/dayana-v-martínez-" 
+- 🌐 You can find me on:
+     Email: "davamaju24@gmail.com" 
+     Linkedin: "www.linkedin.com/in/dayana-v-martínez-"
+
+
 - 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
       "https://www.behance.net/vanessamartine12/projects" 
       "https://www.pinterest.com.mx/IngDayanaMartinez/  
