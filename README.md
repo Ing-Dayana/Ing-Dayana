@@ -5,7 +5,7 @@
 - 🎯What tools and languages do I use?
 
 - -For Frontend development:
-          -HTML CSS JS 
+          -HTML JS CSS
           (BEM methodology)
           -Booststrap
           -Angular -React
