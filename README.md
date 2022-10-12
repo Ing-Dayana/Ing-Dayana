@@ -8,6 +8,7 @@
           -HTML JS CSS
           (BEM methodology)
           -Booststrap
+          -Typescript -SASS
           -Angular -React
           -Visual Studio Code
 - -UI UX Design:
