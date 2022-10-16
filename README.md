@@ -1,29 +1,29 @@
-- Hi, I’m ✨Dayana✨, 
+Hi, I’m ✨Dayana✨, 
 
-- 👀I’m an industrial engineer with a specialty in manufacturing and aeronautical innovation, I’m a graduate of the Tecnologico Nacional de Mexio campus Ensenada.
-- 🌱I’m currently learning more technologies for a better Frontend development and always improving in UI UX design
-- 🎯What tools and languages do I use?
+I’m an industrial engineer with a specialty in manufacturing and aeronautical innovation, I’m a graduate of the Tecnologico Nacional de Mexio campus Ensenada.
+I’m currently learning more technologies for a better Frontend development and always improving in UI UX design
+What tools and languages do I use?
 
-- -For Frontend development:
+-For Frontend development:
           -HTML JS CSS
           (BEM methodology)
           -Booststrap
           -Typescript -SASS
           -Angular -React
           -Visual Studio Code
-- -UI UX Design:
+-UI UX Design:
           -Figma
           -Adobe XD
           -Invision
           -Illustrator
           -Photoshop
      
-- 🌐 You can find me on:
+🌐You can find me on:
      Email: "davamaju24@gmail.com" 
      Linkedin: "www.linkedin.com/in/dayana-v-martínez-"
 
 
-- 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
+🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
       "https://www.behance.net/vanessamartine12/projects" 
       "https://www.pinterest.com.mx/IngDayanaMartinez/" 
 
