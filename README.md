@@ -19,8 +19,8 @@ What tools and languages do I use?
           *Photoshop
      
 🌐You can find me on:
-     Email: "davamaju24@gmail.com" 
-     Linkedin: "www.linkedin.com/in/dayana-v-martínez-"
+     Email:"davamaju24@gmail.com" 
+     Linkedin:"www.linkedin.com/in/dayana-v-martínez-"
 
 
 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:
