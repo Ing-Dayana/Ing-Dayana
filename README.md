@@ -5,18 +5,18 @@ I’m currently learning more technologies for a better Frontend development and
 What tools and languages do I use?
 
 -For Frontend development:
-          *HTML JS CSS
-          (BEM methodology)
-          *Booststrap
-          *Typescript *SASS
-          *Angular *React
-          *Visual Studio Code
+                   *HTML JS CSS
+                   (BEM methodology)
+                   *Booststrap
+                   *Typescript *SASS
+                   *Angular *React
+                   *Visual Studio Code
 -UI UX Design:
-          *Figma
-          *Adobe XD
-          *Invision
-          *Illustrator
-          *Photoshop
+                   *Figma
+                   *Adobe XD
+                   *Invision
+                   *Illustrator
+                   *Photoshop
      
 🌐You can find me on:
      Email:"davamaju24@gmail.com" 
