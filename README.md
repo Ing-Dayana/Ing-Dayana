@@ -1,3 +1,5 @@
+
+
 Hi, I’m ✨Dayana✨, 
 
 I’m an industrial engineer with a specialty in manufacturing and aeronautical innovation, I’m a graduate of the Tecnologico Nacional de Mexio campus Ensenada.
