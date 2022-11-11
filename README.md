@@ -11,7 +11,8 @@ What tools and languages do I use?
                    *Booststrap
                    *Typescript *SASS
                    *Angular *React
-                   *Visual Studio Code
+                   *Visual Studio Code 
+
 -UI UX Design:
                    *Figma
                    *Adobe XD
