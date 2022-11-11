@@ -8,7 +8,6 @@ What tools and languages do I use?
 
 -For Frontend development:
                    *HTML JS CSS
-                   (BEM methodology)
                    *Booststrap
                    *Typescript *SASS
                    *Angular *React
