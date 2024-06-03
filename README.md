@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left"> 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:</h3>     
-🌐Email:" davamaju24@gmail.com " 
+🌐Email:" dayismaju@gmail.com " 
 🎨Pinterest:"https://www.pinterest.com.mx/IngDayanaMartinez/" 
 🎨Dribbble: "https://dribbble.com/Dayisjpg" 
 
