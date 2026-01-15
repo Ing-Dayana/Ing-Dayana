@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m ✨Dayana✨, </h1>
-<h3 align="center">I’m a web developer and designer UI UX and this profile has the purpose of polishing my skills and sharing code with a large community of programmers!!</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="left"> 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:</h3>     
