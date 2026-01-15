@@ -1,17 +1,10 @@
 <h1 align="center"> Hi, I’m ✨Dayana✨, </h1>
 <h3 align="center">I’m a web developer and designer UI UX and this profile has the purpose of polishing my skills and sharing code with a large community of programmers!!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dayana-v-martínez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dayana-v-martínez-" height="30" width="40" /></a>
-<a href="https://www.behance.net/vanessamartine12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/vanessamartine12" height="30" width="40" /></a>
-
-</p>
 
 <h3 align="left"> 🎨 You can see my UI UX designs, 3D designs for websites, Frontend development at:</h3>     
-🌐Email:" dayismaju@gmail.com " 
 🎨Pinterest:"https://www.pinterest.com.mx/IngDayanaMartinez/" 
-🎨Dribbble: "https://dribbble.com/Dayisjpg" 
+
 
 <h1 What tools and languages do I use? </h2>
 <h3 align="left">Languages and Tools FRONTEND DEVELOPMENT:</h3>
